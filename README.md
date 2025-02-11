@@ -1,4 +1,4 @@
-# digital-parallel-NMR
+# gradientCompensation
 A compensation scheme for gradient spillover in a parallel NMR probe
 
 ## Description
