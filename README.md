@@ -1,5 +1,5 @@
 # digital-parallel-NMR
-A digital twin for parallel liquid-state NMR Spectroscopy
+A compensation scheme for gradient spillover in a parallel NMR probe
 
 ## Description
 This package offers a comprehensive suite for multiple physics simulations aimed at running parallel NMR experiments in a digital twin. We've set up a way to blend electromagnetic simulations with spin dynamics calculations. These simulations help to measure how radio waves affect different NMR detectors, which allows us to understand the signals we get.
